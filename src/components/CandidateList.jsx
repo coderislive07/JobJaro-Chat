@@ -7,7 +7,7 @@ import osman from "../assets/Osman.png"
 import pin from "../assets/pin.png"
 import onemessage from "../assets/onemessage.png"
 // error
-import jasmin from "../assets/jasmin.png"
+import jasmin from "../assets/Jasmin.jpg"
 import jacob from "../assets/Jacob.png"
 import conner from "../assets/conner.png"
 import coloureddoubletick from "../assets/coloureddoubletick.png"
